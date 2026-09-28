@@ -1,0 +1,110 @@
+:root {
+  /* =========================
+     Brand Colors
+  ========================= */
+
+  --color-primary: #e83e8c;
+  --color-primary-hover: #d92f7c;
+  --color-primary-light: #fde7f2;
+
+  /* =========================
+     Text
+  ========================= */
+
+  --color-text: #17233c;
+  --color-text-secondary: #596579;
+  --color-text-muted: #8b95a7;
+
+  /* =========================
+     Backgrounds
+  ========================= */
+
+  --color-background: #faf8fc;
+  --color-surface: #ffffff;
+  --color-surface-soft: #fff4f8;
+
+  /* =========================
+     Borders
+  ========================= */
+
+  --color-border: #eee7ef;
+
+  /* =========================
+     Status
+  ========================= */
+
+  --color-success: #35a873;
+  --color-warning: #f2b84b;
+  --color-danger: #e85d75;
+  --color-info: #5b8def;
+
+  /* =========================
+     Category Colors
+  ========================= */
+
+  --color-frontend: #e8f7f3;
+  --color-backend: #edf5e9;
+  --color-design: #f7ecf8;
+  --color-data: #fff4dc;
+
+  /* =========================
+     Typography
+  ========================= */
+
+  --font-xs: 12px;
+  --font-sm: 14px;
+  --font-md: 16px;
+  --font-lg: 20px;
+  --font-xl: 28px;
+  --font-2xl: 36px;
+  --font-3xl: 48px;
+
+  /* =========================
+     Font Weights
+  ========================= */
+
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+
+  /* =========================
+     Spacing
+  ========================= */
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+
+  /* =========================
+     Radius
+  ========================= */
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* =========================
+     Shadows
+  ========================= */
+
+  --shadow-sm: 0 2px 8px rgba(23, 35, 60, 0.04);
+  --shadow-md: 0 8px 24px rgba(23, 35, 60, 0.06);
+  --shadow-lg: 0 16px 40px rgba(23, 35, 60, 0.08);
+
+  /* =========================
+     Layout
+  ========================= */
+
+  --container-width: 1200px;
+}
